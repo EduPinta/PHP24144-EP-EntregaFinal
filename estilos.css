@@ -390,7 +390,7 @@ body{
             backdrop-filter: blur(40px);
             input:not(.check,.boton),select{
                 width: 100%;
-                margin-bottom: 40px;
+                margin-bottom: 30px;
                 height: 45px;
                 padding: 0px 20px;
                 font-size: 1.5rem;
@@ -406,16 +406,16 @@ body{
             }
             .error-text{
                 color: #ff0000;
-                font-size: 0.8rem;
+                font-size: 1.2rem;
                 margin-top:0px;
-                margin-bottom: 10px;
+                margin-bottom: 5px;
             }
             
             .terminos{
                 font-size: 1.2rem;
                 display: flex;
                 align-items: center;
-                margin-bottom: 20px;
+                margin-bottom: 50px;
                 .textoCheck{
                     margin-left: 10px;
                     cursor: pointer;
@@ -435,7 +435,7 @@ body{
                 
             }
             .ayuda{
-                font-size: 1.2rem;
+                font-size: 1.5rem;
                 text-decoration: none;
                 color: #787878;
                 font-weight:600;
