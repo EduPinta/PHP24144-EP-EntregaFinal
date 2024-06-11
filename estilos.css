@@ -381,6 +381,7 @@ body{
             font-size: 2.5rem;
             font-weight: 700;
             margin-bottom: 30px;
+            margin-top: 40px;
         }
 
         form{
@@ -389,8 +390,8 @@ body{
             backdrop-filter: blur(40px);
             input:not(.check,.boton),select{
                 width: 100%;
-                margin-bottom: 20px;
-                height: 50px;
+                margin-bottom: 40px;
+                height: 45px;
                 padding: 0px 20px;
                 font-size: 1.5rem;
                 border-radius: 10px;
